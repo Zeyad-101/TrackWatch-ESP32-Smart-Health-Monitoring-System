@@ -9,4 +9,3 @@ Watch the working prototype:
 ---
 
 ## 📸 Prototype Preview
-
