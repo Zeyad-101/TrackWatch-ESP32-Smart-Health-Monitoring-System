@@ -1,4 +1,4 @@
-# ⌚ TrackWatch – ESP32 Smart Health Monitoring System
+# TrackWatch – ESP32 Smart Health Monitoring System
 
 TrackWatch is a wearable IoT prototype built using ESP32 that monitors
 heart rate, body temperature, and physical movement in real time.
@@ -8,7 +8,7 @@ health-monitoring solutions.
 
 ---
 
-## 🚀 Features
+##Features
 
 - ❤️ Heart Rate Monitoring (MAX30102)
 - 🌡️ Temperature Measurement (DS18B20)
@@ -19,7 +19,7 @@ health-monitoring solutions.
 
 ---
 
-## 🛠️ Hardware Used
+## Hardware Used
 
 | Component | Purpose |
 |----------|---------|
@@ -31,7 +31,7 @@ OLED Display | Data visualization |
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 code/ → Arduino source code
 hardware/ → Wiring & pin configuration
@@ -67,6 +67,6 @@ See `/media` folder for working demonstration.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻Author
 
 **Zeyad**
